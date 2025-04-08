@@ -1,5 +1,4 @@
 ![Approved](https://img.shields.io/badge/Amazing Tags-Approved-blue?style=for-the-badge)
-
 #Amazing tags For Github
 ##tags that help represent your project
 ###Had you ever though of having tags that looked Good?
