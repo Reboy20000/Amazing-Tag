@@ -1,7 +1,7 @@
 ![Approved](https://img.shields.io/badge/Amazing Tags-Approved-blue?style=for-the-badge)
-#Amazing tags For Github
-##tags that help represent your project
-###Had you ever though of having tags that looked Good?
+# Amazing tags For Github
+## tags that help represent your project
+### Had you ever though of having tags that looked Good?
 ### Well These Tags are open sourced and free to use.
 ### We hope to see what tag ides you github contrbutiers have.
 ![Approved](https://img.shields.io/badge/Team or Company-Approved-blue?style=for-the-badge)
