@@ -10,6 +10,6 @@
 ![Build](https://img.shields.io/badge/Build-Passing-gree?style=for-the-badge)
 ![Failed](https://img.shields.io/badge/Build-Falling-red?style=for-the-badge)
 ![Cancled](https://img.shields.io/badge/Build-Cancled-orange?style=for-the-badge)
-![Build](https://img.shields.io/badge/Build_In_Progress-yellow?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-In_Progress-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-gree?style=for-the-badge)
 ![Archived](https://img.shields.io/badge/Status-Archived-yellow?style=for-the-badge)
